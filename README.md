@@ -32,16 +32,26 @@
       src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"
       alt="Javascript"
     />
-     <img
-      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"
-      alt="Typescript"
-    />
   </div>
   </div>
   <div align="center">
     <img
-      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"
-      alt="React"
+      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"
+      alt="Typescript"
+    />
+    <img
+      src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+      alt="SASS"
+    />
+    <img
+      src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      alt="TailwindCSS"
+    />
+  </div>
+  <div align="center">
+    <img
+      src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&amp;logo=nuxt&logoColor=#00DC82"
+      alt="Nuxt"
     />
       <img
       src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
@@ -50,8 +60,8 @@
   </div>
   <div align="center">
     <img
-      src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white"
-      alt="Redux"
+      src="https://img.shields.io/badge/pinia-F7D336?style=for-the-badge&logo=pinia&logoColor=white"
+      alt="Pinia"
     />
   </div>
 </div>
